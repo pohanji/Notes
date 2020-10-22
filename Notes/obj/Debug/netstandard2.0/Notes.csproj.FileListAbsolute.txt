@@ -1,0 +1,7 @@
+D:\xamarin\Notes\Notes\bin\Debug\netstandard2.0\Notes.deps.json
+D:\xamarin\Notes\Notes\bin\Debug\netstandard2.0\Notes.dll
+D:\xamarin\Notes\Notes\obj\Debug\netstandard2.0\Notes.csprojAssemblyReference.cache
+D:\xamarin\Notes\Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\xamarin\Notes\Notes\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\xamarin\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfoInputs.cache
+D:\xamarin\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfo.cs
