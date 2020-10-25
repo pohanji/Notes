@@ -6,7 +6,7 @@ using System.Text;
 namespace Notes.Models
 {
     [Table("Notes")]
-    class Note
+    public class Note
     {
         [PrimaryKey, AutoIncrement, Column("_id")]
         public int Id { get; set; }
