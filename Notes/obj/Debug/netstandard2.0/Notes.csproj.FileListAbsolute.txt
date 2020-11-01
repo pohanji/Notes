@@ -12,5 +12,5 @@ D:\xamarin\Notes\Notes\obj\Debug\netstandard2.0\XamlC.stamp
 D:\xamarin\Notes\Notes\obj\Debug\netstandard2.0\Notes.dll
 D:\xamarin\Notes\Notes\obj\Debug\netstandard2.0\ref\Notes.dll
 D:\xamarin\Notes\Notes\obj\Debug\netstandard2.0\Notes.pdb
-D:\xamarin\Notes\Notes\obj\Debug\netstandard2.0\Models\Item.xaml.g.cs
 D:\xamarin\Notes\Notes\obj\Debug\netstandard2.0\Pages\AddNote.xaml.g.cs
+D:\xamarin\Notes\Notes\obj\Debug\netstandard2.0\Pages\ViewNote.xaml.g.cs

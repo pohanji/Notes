@@ -7,10 +7,10 @@
         <Grid.RowDefinitions>
             <RowDefinition Height="120"/>
             <RowDefinition Height="120"/>
-            <RowDefinition Height="120"/>
+            <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
-        <Entry Grid.Row="0" Placeholder="Note name"/>
-        <Entry Grid.Row="1" Placeholder="Note body"/>
-        <Button Grid.Row="4" Text="Create" VerticalOptions="End"/>
+        <Entry Grid.Row="0" Placeholder="Note name" x:Name="Name"/>
+        <Entry Grid.Row="1" Placeholder="Note body" x:Name="Body"/>
+        <Button Grid.Row="4" Text="Save" VerticalOptions="End" Clicked="Button_Clicked"/>
     </Grid>
 </ContentPage>
